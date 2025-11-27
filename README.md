@@ -1,16 +1,25 @@
-# news_app
+# Flutter News App 📰
 
-A new Flutter project.
+A simple Flutter application that displays the latest news using a News API.
 
-## Getting Started
+## ✨ Features
+- Fetches news from an API
+- Clean UI
+- Categories for different types of news
+- Uses `FutureBuilder` and `Dio` for API calls
+- Organized folder structure (models, services, widgets)
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Dio (API Networking)
+- MVVM-like simple architecture
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run
+1. Clone the project:    git clone https://github.com/mustafa912/news_app.git
+2. Navigate to the project:  cd news_app
+4. Run the app:    flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Notes
+This project is part of my Flutter learning journey.  
+More apps coming soon 🚀
